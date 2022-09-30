@@ -1,5 +1,56 @@
 > Version number is OC version number following by the EFI revision number
 
+## v0.7.1-2
+
+**OpenCore version: `0.7.1` - release**
+
+* Adds a custom USBMap
+* Updates Lilu and WhateverGreen
+
+
+### ACPI list
+
+| ACPI                 | Notes |
+| -------------------- | ----- |
+| SSDT-AWAC            |       |
+| SSDT-EC-USBX-DESKTOP |       |
+| SSDT-PLUG-DRTNIA     |       |
+
+
+
+### Drivers versions
+
+| Driver      | Version | Notes |
+| ----------- | ------- | ----- |
+| OpenRuntime | OC      |       |
+
+
+
+### Kexts versions
+
+| Kext          | Version | Notes |
+| ------------- | ------- | ----- |
+| AppleALC      | 1.6.2   |       |
+| IntelMausi    | 1.0.8   |       |
+| Lilu          | 1.5.6   |       |
+| NVMeFix       | 1.0.9   |       |
+| SMCProcessor  | 1.2.5   |       |
+| SMCSuperIO    | 1.2.5   |       |
+| VirtualSMC    | 1.2.5   |       |
+| WhateverGreen | 1.5.3   |       |
+| USBMap        | 1.0     |       |
+
+
+
+### Tools list
+
+| Tool      | Version | Notes |
+| --------- | ------- | ----- |
+| OpenShell | OC      |       |
+
+
+
+
 ## v0.7.1-1
 
 **OpenCore version: `0.7.1` - release**
@@ -43,6 +94,7 @@
 | Tool      | Version | Notes |
 | --------- | ------- | ----- |
 | OpenShell | OC      |       |
+
 
 
 
