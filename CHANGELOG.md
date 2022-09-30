@@ -27,14 +27,14 @@
 
 | Kext          | Version | Notes |
 | ------------- | ------- | ----- |
-| AppleALC      |         |       |
-| IntelMausi    |         |       |
-| Lilu          |         |       |
-| NVMeFix       |         |       |
-| SMCProcessor  |         |       |
-| SMCSuperIO    |         |       |
-| VirtualSMC    |         |       |
-| WhateverGreen |         |       |
+| AppleALC      | 1.6.2   |       |
+| IntelMausi    | 1.0.8   |       |
+| Lilu          | 1.5.4   |       |
+| NVMeFix       | 1.0.9   |       |
+| SMCProcessor  | 1.2.5   |       |
+| SMCSuperIO    | 1.2.5   |       |
+| VirtualSMC    | 1.2.5   |       |
+| WhateverGreen | 1.5.1   |       |
 
 
 
@@ -74,14 +74,14 @@
 
 | Kext          | Version | Notes |
 | ------------- | ------- | ----- |
-| AppleALC      |         |       |
-| IntelMausi    |         |       |
-| Lilu          |         |       |
-| NVMeFix       |         |       |
-| SMCProcessor  |         |       |
-| SMCSuperIO    |         |       |
-| VirtualSMC    |         |       |
-| WhateverGreen |         |       |
+| AppleALC      | 1.6.0   |       |
+| IntelMausi    | 1.0.6   |       |
+| Lilu          | 1.5.3   |       |
+| NVMeFix       | 1.0.7   |       |
+| SMCProcessor  | 1.2.3   |       |
+| SMCSuperIO    | 1.2.3   |       |
+| VirtualSMC    | 1.2.3   |       |
+| WhateverGreen | 1.4.9   |       |
 
 
 
