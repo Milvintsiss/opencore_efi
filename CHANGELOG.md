@@ -1,5 +1,58 @@
 > Version number is OC version number following by the EFI revision number
 
+## v0.7.6-1
+
+**OpenCore version: `0.7.6` - release**
+
+### Changes
+
+* Updates IntelMausi from custom build to 1.0.7 as WOL is now supported
+* Updates AppleALC, Lilu, SMC, WhateverGreen
+
+
+
+### ACPI list
+
+| ACPI                 | Notes |
+| -------------------- | ----- |
+| SSDT-AWAC            |       |
+| SSDT-EC-USBX-DESKTOP |       |
+| SSDT-PLUG-DRTNIA     |       |
+
+
+
+### Drivers versions
+
+| Driver      | Version | Notes |
+| ----------- | ------- | ----- |
+| OpenRuntime | OC      |       |
+
+
+
+### Kexts versions
+
+| Kext          | Version | Notes |
+| ------------- | ------- | ----- |
+| AppleALC      | 1.6.7   |       |
+| IntelMausi    | 1.0.7   |       |
+| Lilu          | 1.5.8   |       |
+| NVMeFix       | 1.0.9   |       |
+| SMCProcessor  | 1.2.5   |       |
+| SMCSuperIO    | 1.2.5   |       |
+| VirtualSMC    | 1.2.5   |       |
+| WhateverGreen | 1.5.3   |       |
+| USBMap        | 1.0     |       |
+
+
+
+### Tools list
+
+| Tool      | Version | Notes |
+| --------- | ------- | ----- |
+| OpenShell | OC      |       |
+
+
+
 ## v0.7.1-2
 
 **OpenCore version: `0.7.1` - release**
@@ -31,17 +84,17 @@
 
 ### Kexts versions
 
-| Kext          | Version | Notes |
-| ------------- | ------- | ----- |
-| AppleALC      | 1.6.2   |       |
-| IntelMausi    | 1.0.8   |       |
-| Lilu          | 1.5.6   |       |
-| NVMeFix       | 1.0.9   |       |
-| SMCProcessor  | 1.2.5   |       |
-| SMCSuperIO    | 1.2.5   |       |
-| VirtualSMC    | 1.2.5   |       |
-| WhateverGreen | 1.5.3   |       |
-| USBMap        | 1.0     |       |
+| Kext          | Version | Notes                                                     |
+| ------------- | ------- | --------------------------------------------------------- |
+| AppleALC      | 1.6.2   |                                                           |
+| IntelMausi    | 1.0.8   | This is a custom build of Intel Mausi to add WOL support. |
+| Lilu          | 1.5.6   |                                                           |
+| NVMeFix       | 1.0.9   |                                                           |
+| SMCProcessor  | 1.2.5   |                                                           |
+| SMCSuperIO    | 1.2.5   |                                                           |
+| VirtualSMC    | 1.2.5   |                                                           |
+| WhateverGreen | 1.5.3   |                                                           |
+| USBMap        | 1.0     |                                                           |
 
 
 
@@ -50,7 +103,6 @@
 | Tool      | Version | Notes |
 | --------- | ------- | ----- |
 | OpenShell | OC      |       |
-
 
 
 
@@ -79,16 +131,16 @@
 
 ### Kexts versions
 
-| Kext          | Version | Notes |
-| ------------- | ------- | ----- |
-| AppleALC      | 1.6.2   |       |
-| IntelMausi    | 1.0.8   |       |
-| Lilu          | 1.5.4   |       |
-| NVMeFix       | 1.0.9   |       |
-| SMCProcessor  | 1.2.5   |       |
-| SMCSuperIO    | 1.2.5   |       |
-| VirtualSMC    | 1.2.5   |       |
-| WhateverGreen | 1.5.1   |       |
+| Kext          | Version | Notes                                                     |
+| ------------- | ------- | --------------------------------------------------------- |
+| AppleALC      | 1.6.2   |                                                           |
+| IntelMausi    | 1.0.8   | This is a custom build of Intel Mausi to add WOL support. |
+| Lilu          | 1.5.4   |                                                           |
+| NVMeFix       | 1.0.9   |                                                           |
+| SMCProcessor  | 1.2.5   |                                                           |
+| SMCSuperIO    | 1.2.5   |                                                           |
+| VirtualSMC    | 1.2.5   |                                                           |
+| WhateverGreen | 1.5.1   |                                                           |
 
 
 
@@ -97,7 +149,6 @@
 | Tool      | Version | Notes |
 | --------- | ------- | ----- |
 | OpenShell | OC      |       |
-
 
 
 
