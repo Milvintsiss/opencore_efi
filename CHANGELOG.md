@@ -1,5 +1,51 @@
 > Version number is OC version number following by the EFI revision number
 
+## v0.7.1-1
+
+**OpenCore version: `0.7.1` - release**
+
+
+### ACPI list
+
+| ACPI                 | Notes |
+| -------------------- | ----- |
+| SSDT-AWAC            |       |
+| SSDT-EC-USBX-DESKTOP |       |
+| SSDT-PLUG-DRTNIA     |       |
+
+
+
+### Drivers versions
+
+| Driver      | Version | Notes |
+| ----------- | ------- | ----- |
+| OpenRuntime | OC      |       |
+
+
+
+### Kexts versions
+
+| Kext          | Version | Notes |
+| ------------- | ------- | ----- |
+| AppleALC      |         |       |
+| IntelMausi    |         |       |
+| Lilu          |         |       |
+| NVMeFix       |         |       |
+| SMCProcessor  |         |       |
+| SMCSuperIO    |         |       |
+| VirtualSMC    |         |       |
+| WhateverGreen |         |       |
+
+
+
+### Tools list
+
+| Tool      | Version | Notes |
+| --------- | ------- | ----- |
+| OpenShell | OC      |       |
+
+
+
 ## v0.6.9-1
 
 **OpenCore version: `0.6.9` - debug**
@@ -44,4 +90,3 @@
 | Tool      | Version | Notes |
 | --------- | ------- | ----- |
 | OpenShell | OC      |       |
-
