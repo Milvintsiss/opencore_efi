@@ -4,8 +4,11 @@
 
 **OpenCore version: `0.7.1` - release**
 
+### Changes
+
 * Adds a custom USBMap
 * Updates Lilu and WhateverGreen
+
 
 
 ### ACPI list
