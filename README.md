@@ -1,6 +1,6 @@
 # OpenCore EFI configuration
 
-This repo contains my OC configuration that I use for my Hackintosh, thoses settings and files are custom and do not apply to others hardware configurations ([see hardware here](#This EFI applies for the following hardware: )).
+This repo contains my OC configuration that I use for my Hackintosh, thoses settings and files are custom and do not apply to others hardware configurations ([see hardware here](#this-efi-applies-for-the-following-hardware)).
 
 
 ### TODO:
@@ -9,7 +9,7 @@ This repo contains my OC configuration that I use for my Hackintosh, thoses sett
 * Setup OpenCanopy to add a visual Mac-like startup
 
 
-### This EFI applies for the following hardware: 
+### This EFI applies for the following hardware
 
 | Component   | Model                       |
 | ----------- | --------------------------- |
