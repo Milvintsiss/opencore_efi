@@ -1,6 +1,6 @@
 > Version number is OC version number following by the EFI revision number
 
-## v0.8.4-1
+## v0.8.4-1 ~ 10/01/22
 
 **OpenCore version: `0.8.4` - release**
 
@@ -53,7 +53,7 @@
 
 
 
-## v0.7.6-1
+## v0.7.6-1 ~ 12/08/21
 
 **OpenCore version: `0.7.6` - release**
 
@@ -107,7 +107,7 @@
 
 
 
-## v0.7.1-2
+## v0.7.1-2 ~ 09/12/21
 
 **OpenCore version: `0.7.1` - release**
 
@@ -160,7 +160,7 @@
 
 
 
-## v0.7.1-1
+## v0.7.1-1 ~ 07/26/21
 
 **OpenCore version: `0.7.1` - release**
 
@@ -206,7 +206,7 @@
 
 
 
-## v0.6.9-1
+## v0.6.9-1 ~ May 21
 
 **OpenCore version: `0.6.9` - debug**
 
