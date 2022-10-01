@@ -2,14 +2,24 @@
 
 This repo contains my OC configuration that I use for my Hackintosh, thoses settings and files are custom and do not apply to others hardware configurations ([see hardware here](#this-efi-applies-for-the-following-hardware)).
 
+## Useful links
 
-### TODO:
+[Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+
+[OpenCore official repository](https://github.com/acidanthera/OpenCorePkg)
+
+[OpenCore full documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
+
+[TonyMacx86 Forum](https://www.tonymacx86.com/)
+
+
+## TODO:
 
 * Fix screen glitching at startup when two screens or more are connected
 * Setup OpenCanopy to add a visual Mac-like startup
 
 
-### This EFI applies for the following hardware
+## This EFI applies for the following hardware
 
 | Component   | Model                       |
 | ----------- | --------------------------- |
@@ -17,4 +27,3 @@ This repo contains my OC configuration that I use for my Hackintosh, thoses sett
 | Processor   | Intel i9 10850k             |
 | iGPU        | UHD Graphics 630            |
 | SSD         | Sabrent Rocket Q NVMe (2TB) |
-
