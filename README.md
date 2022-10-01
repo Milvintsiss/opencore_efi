@@ -13,7 +13,7 @@ This repo contains my OC configuration that I use for my Hackintosh, thoses sett
 [TonyMacx86 Forum](https://www.tonymacx86.com/)
 
 
-## TODO:
+## TODO
 
 * Fix screen glitching at startup when two screens or more are connected
 * Setup OpenCanopy to add a visual Mac-like startup
