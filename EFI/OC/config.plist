@@ -845,7 +845,7 @@
 			<key>AppleRtcRam</key>
 			<false/>
 			<key>AppleSecureBoot</key>
-			<false/>
+			<true/>
 			<key>AppleSmcIo</key>
 			<false/>
 			<key>AppleUserInterfaceTheme</key>
