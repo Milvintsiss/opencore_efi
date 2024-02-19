@@ -26,4 +26,5 @@ This repo contains my OC configuration that I use for my Hackintosh, thoses sett
 | Motherboard | Gigabyte Z490M Gaming X     |
 | Processor   | Intel i9 10850k             |
 | iGPU        | UHD Graphics 630            |
+| dGPU        | None                        |
 | SSD         | Sabrent Rocket Q NVMe (2TB) |
